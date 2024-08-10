@@ -119,5 +119,4 @@ import Image from "next/image";
                      </div>
                   </div>`;
       });
-      document.getElementById('gpm').innerHTML = product;
    }
